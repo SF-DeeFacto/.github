@@ -3,6 +3,7 @@
 
 안녕하세요! 방문해주셔서 감사합니다. <br><br>
 ✅ 주요 산출물들은 Docs 레파지토리에서 확인 가능합니다. <br>
+✅ Key deliverables are available in the Docs repository. <br>
 <br><br>
 
 ### 성과
